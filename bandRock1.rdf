@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:ns0="http://xmlns.com/foaf/spec/"
-         xmlns:ns1="http://dbpedia.org/page/">
+         xmlns:foaf="http://xmlns.com/foaf/spec/"
+         xmlns:dbpedia="http://dbpedia.org/page/">
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Linkin_Park">
-    <ns0:name>Linkin Park</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1996-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Brad Delson, Mike Shinoda, Joe Hahn, Chester Bennington</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Castle of Glass, Crawling</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://www.1zoom.me/prev2/240/239238.jpg</ns0:image>
+    <foaf:name>Linkin Park</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1996-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Brad Delson, Mike Shinoda, Joe Hahn, Chester Bennington</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Castle of Glass, Crawling</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://www.1zoom.me/prev2/240/239238.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/The_Beatles">
-    <ns0:name>The Beatles</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1960-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>George Harrison, John Lennon, Ringo Starr, Paul McCartney</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Blackbird, Birthday</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://upload.wikimedia.org/wikipedia/commons/9/9f/Beatles_ad_1965_just_the_beatles_crop.jpg</ns0:image>
+    <foaf:name>The Beatles</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1960-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>George Harrison, John Lennon, Ringo Starr, Paul McCartney</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Blackbird, Birthday</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://upload.wikimedia.org/wikipedia/commons/9/9f/Beatles_ad_1965_just_the_beatles_crop.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Nirvana_(band)">
-    <ns0:name>Nirvana</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1987-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Krist Novoselic, Dave Grohl, Kurt Cobain</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Marigold, I Hate Myself and Want to Die</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://classicalbumsundays.com/wp-content/uploads/2011/09/rs-nirvana-e9e22e4b-f7d9-4fc7-bd94-23c30084ce94.jpg</ns0:image>
+    <foaf:name>Nirvana</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1987-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Krist Novoselic, Dave Grohl, Kurt Cobain</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Marigold, I Hate Myself and Want to Die</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://classicalbumsundays.com/wp-content/uploads/2011/09/rs-nirvana-e9e22e4b-f7d9-4fc7-bd94-23c30084ce94.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/The_Rolling_Stones">
-    <ns0:name>The Rolling Stones</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1962-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Mick Jagger, Keith Richards, Ronnie Wood, Charlie Watts</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Five by Five, Got Live If You Want It</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://www.rollingstone.com/wp-content/uploads/2019/04/rolling-stones-honk-review.jpg</ns0:image>
+    <foaf:name>The Rolling Stones</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1962-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Mick Jagger, Keith Richards, Ronnie Wood, Charlie Watts</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Five by Five, Got Live If You Want It</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://www.rollingstone.com/wp-content/uploads/2019/04/rolling-stones-honk-review.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Led_Zeppelin">
-    <ns0:name>Led Zeppelin</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1980-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>John Paul Jones, Robert Plan, Jimmy page, John Bonham</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Houses of the Holy, Physicall Graffiti</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://static.billboard.com/files/media/led-zeppelin-london-1968-u-billboard-1548-compressed.jpg</ns0:image>
+    <foaf:name>Led Zeppelin</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1980-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>John Paul Jones, Robert Plan, Jimmy page, John Bonham</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Houses of the Holy, Physicall Graffiti</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://static.billboard.com/files/media/led-zeppelin-london-1968-u-billboard-1548-compressed.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Queen_(band)">
-    <ns0:name>Queen</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1970-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Brian May, Roger Taylor, Paul Rodgers</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Live Killers, Sweet Lady</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://www.rollingstone.com/wp-content/uploads/2018/06/queen-news-of-the-world-opener-c5bda6ed-0bdf-42c0-8d93-7b29ec5c4259.jpg</ns0:image>
+    <foaf:name>Queen</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1970-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Brian May, Roger Taylor, Paul Rodgers</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Live Killers, Sweet Lady</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://www.rollingstone.com/wp-content/uploads/2018/06/queen-news-of-the-world-opener-c5bda6ed-0bdf-42c0-8d93-7b29ec5c4259.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/The_Who">
-    <ns0:name>The Who</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1964-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Roger Daltrey, Pete Townshend</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>British Invasion, Pete Townshend</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://exclaim.ca/images/the_who.jpg</ns0:image>
+    <foaf:name>The Who</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1964-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Roger Daltrey, Pete Townshend</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>British Invasion, Pete Townshend</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://exclaim.ca/images/the_who.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Pink_Floyd">
-    <ns0:name>Pink Floyd</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1965-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Syd Barrett, Richard Wright, Roger Waters, David Gilmour, Nick Mason</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>The Dark Side of the Moon, AstronomyDomine</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://cdns.klimg.com/merdeka.com/i/w/news/2013/10/12/262524/540x270/pink-floyd-band-legendaris-inggris-anti-israel.jpg</ns0:image>
+    <foaf:name>Pink Floyd</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1965-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Syd Barrett, Richard Wright, Roger Waters, David Gilmour, Nick Mason</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>The Dark Side of the Moon, AstronomyDomine</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://cdns.klimg.com/merdeka.com/i/w/news/2013/10/12/262524/540x270/pink-floyd-band-legendaris-inggris-anti-israel.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/The_Doors">
-    <ns0:name>The Doors</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1965-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Jim Morrison, John Densmore, Ray Manzarek, Robby Krieger</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Roadhouse Blues, Breakn' a Sweat</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://upload.wikimedia.org/wikipedia/commons/6/60/Doors_electra_publicity_photo.JPG</ns0:image>
+    <foaf:name>The Doors</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1965-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Jim Morrison, John Densmore, Ray Manzarek, Robby Krieger</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Roadhouse Blues, Breakn' a Sweat</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://upload.wikimedia.org/wikipedia/commons/6/60/Doors_electra_publicity_photo.JPG</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Van_Halen">
-    <ns0:name>Van Halen</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1972-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Alex Van Halen, Eddie Van Halen, David Lee Roth, Wolfgang Van Halen</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Right Here, Right Now, A Different Kind of Truth</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://pyxis.nymag.com/v1/imgs/efa/e54/0168cdcf289215fc91eb561eb0338da820-04-van-halen-ranking.rsocial.w1200.jpg</ns0:image>
+    <foaf:name>Van Halen</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1972-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Alex Van Halen, Eddie Van Halen, David Lee Roth, Wolfgang Van Halen</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Right Here, Right Now, A Different Kind of Truth</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://pyxis.nymag.com/v1/imgs/efa/e54/0168cdcf289215fc91eb561eb0338da820-04-van-halen-ranking.rsocial.w1200.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Drown_(Bring_Me_the_Horizon_song)">
-    <ns0:name>Bring Me the Horizon</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>2014-10-21</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>Oliver Sykes, Matt Kean, Lee Malia, Matt Nicholls, Jordan Fish</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Chelsea Smile, Sleepwalking</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://diy-magazine.s3.amazonaws.com/d/diy/Artists/B/Bring-Me-The-Horizon/Bring-Me-The-Horizon-Drown-promo.jpg</ns0:image>
+    <foaf:name>Bring Me the Horizon</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>2014-10-21</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>Oliver Sykes, Matt Kean, Lee Malia, Matt Nicholls, Jordan Fish</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Chelsea Smile, Sleepwalking</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://diy-magazine.s3.amazonaws.com/d/diy/Artists/B/Bring-Me-The-Horizon/Bring-Me-The-Horizon-Drown-promo.jpg</foaf:image>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/page/Cream_(band)">
-    <ns0:name>Cream</ns0:name>
-    <ns1:Rock_musicactiveYearsStartYear>1993-01-01</ns1:Rock_musicactiveYearsStartYear>
-    <ns1:Rock_musicbandMember>dbr:Eric Clapton, Ginger Baker, Jack Bruce</ns1:Rock_musicbandMember>
-    <ns1:Rock_musicmusicalBand>Anyone for Tennis, Blue Condition</ns1:Rock_musicmusicalBand>
-    <ns0:image>https://cdn.britannica.com/30/137030-050-67FFCF4E/Cream-Jack-Bruce-Ginger-Baker-Eric-Clapton-1967.jpg</ns0:image>
+    <foaf:name>Cream</foaf:name>
+    <dbpedia:Rock_musicactiveYearsStartYear>1993-01-01</dbpedia:Rock_musicactiveYearsStartYear>
+    <dbpedia:Rock_musicbandMember>dbr:Eric Clapton, Ginger Baker, Jack Bruce</dbpedia:Rock_musicbandMember>
+    <dbpedia:Rock_musicmusicalBand>Anyone for Tennis, Blue Condition</dbpedia:Rock_musicmusicalBand>
+    <foaf:image>https://cdn.britannica.com/30/137030-050-67FFCF4E/Cream-Jack-Bruce-Ginger-Baker-Eric-Clapton-1967.jpg</foaf:image>
   </rdf:Description>
 
 </rdf:RDF>
