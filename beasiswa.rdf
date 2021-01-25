@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:sch="http://beasiswausu.com">
+
+
+    
+<sch:beasiswa rdf:about="https://beasiswa.com/Bidik_Misi">
+		<sch:nama>Bidik Misi</sch:nama>
+		<sch:Strata>S-1/D-4</sch:Strata>
+		<sch:ipk>2.75</sch:ipk>
+		<sch:lembaga>Kementerian Ristek Dikti</sch:lembaga>
+		<sch:tunjangan>Rp 700.000/bulan </sch:tunjangan>
+		<sch:semester>-</sch:semester>
+		<sch:penerima> 4.096 orang </sch:penerima> 
+		<sch:gambar rdf:resource="https://infosurabaya.id/wp-content/uploads/2019/01/bidikmisi-755x420.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/Afirmasi_Papua">
+		<sch:nama>Afirmasi Papua dan 3T</sch:nama>
+		<sch:Strata>S-1/D-3/D-4</sch:Strata>
+		<sch:ipk>-</sch:ipk>
+		<sch:lembaga>Kementerian Ristek Dikti</sch:lembaga>
+		<sch:tunjangan>Rp 1.000.000/bulan</sch:tunjangan>
+		<sch:semester>-</sch:semester>
+		<sch:penerima> 136 orang </sch:penerima> 
+		<sch:gambar rdf:resource="https://1.bp.blogspot.com/-N0Bo3r-cOjA/XNYIGwpR2cI/AAAAAAAAAHw/v6dWMUEFvhs4AeRzNlgK2aTM3WERIlUAgCLcBGAs/s1600/0005.jpg"/>
+</sch:beasiswa>
+    
+<sch:beasiswa rdf:about="https://beasiswa.com/PPA">
+		<sch:nama>Peningkatan Prestasi Akademik (PPA)</sch:nama>
+		<sch:Strata>S-1</sch:Strata>
+		<sch:ipk>3.00</sch:ipk>
+		<sch:lembaga>Kementerian Ristek Dikti</sch:lembaga>
+		<sch:tunjangan>Rp 400.000/bulan </sch:tunjangan>
+		<sch:semester>-</sch:semester>
+		<sch:penerima> 1.196 orang </sch:penerima> 
+		<sch:gambar rdf:resource="https://kemahasiswaan.unisnu.ac.id/assets/media/750x346-banner-beasiswa.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/BBM">
+		<sch:nama>Bantuan Belajar Mahasiswa (BBM)</sch:nama>
+		<sch:Strata>S-1/D-3</sch:Strata>
+		<sch:ipk>2.5</sch:ipk>
+		<sch:lembaga>Universitas Sumatera Utara</sch:lembaga>
+		<sch:tunjangan>Rp 300.000/bulan </sch:tunjangan>
+		<sch:semester>2(dua)</sch:semester>
+		<sch:penerima> 1.000 orang </sch:penerima> 
+		<sch:gambar rdf:resource="https://rencanamu.id/assets/file_uploaded/editor/1488080736-ppa.jpg"/>
+</sch:beasiswa>
+
+    
+    
+<sch:beasiswa rdf:about="https://beasiswa.com/djarumbeasiswa">
+  <sch:nama> Djarum Beasiswa Plus </sch:nama>
+  <sch:Strata> D-4/S-1 </sch:Strata>
+  <sch:ipk> 3.20 </sch:ipk>
+  <sch:lembaga> Djarum Foundation </sch:lembaga>
+  <sch:tunjangan> Rp1.000.000/bulan </sch:tunjangan>
+  <sch:semester> 4 (empat) </sch:semester>
+  <sch:penerima> 8 orang </sch:penerima> 
+  <sch:gambar rdf:resource="https://fisip.unsil.ac.id/wp-content/uploads/2020/03/djarum-1280x720-1.png"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/bankindonesia">
+  <sch:nama> Beasiswa Bank Indonesia </sch:nama>
+  <sch:Strata> S-1 </sch:Strata>
+  <sch:ipk> 3.00 </sch:ipk>
+  <sch:lembaga> Bank Indonesia </sch:lembaga>
+  <sch:tunjangan> Rp1.000.000/bulan </sch:tunjangan>
+  <sch:semester> 3 (tiga) </sch:semester>
+  <sch:penerima> 50 orang </sch:penerima>
+  <sch:gambar rdf:resource="http://kemahasiswaan.unsyiah.ac.id/uploads/thumbnail/Berita%20Beasiswa-detil-344.png"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/pelayanankasih">
+  <sch:nama>Beasiswa Pelayanan Kasih A dan A Rachmat</sch:nama>
+  <sch:Strata> D-3/D-4/S-1 </sch:Strata>
+  <sch:ipk> 3.00 </sch:ipk>
+  <sch:lembaga> PT. Daya Adicipta Mustika </sch:lembaga>
+  <sch:tunjangan> Rp700.000/3 bulan </sch:tunjangan>
+  <sch:semester> 3 (tiga) </sch:semester>
+  <sch:penerima> 15 orang </sch:penerima> 
+  <sch:gambar rdf:resource="http://www.scholarsofficial.com/wp-content/uploads/2020/06/beasiswa1-630x380.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/tanoto">
+  <sch:nama> Beasiswa Tanoto Foundation </sch:nama>
+  <sch:Strata> S-1/S-2 </sch:Strata>
+  <sch:ipk> 3.00 </sch:ipk>
+  <sch:lembaga> Yayasan Bhakti Tanoto </sch:lembaga>
+  <sch:tunjangan> Rp600.000/bulan </sch:tunjangan>
+  <sch:semester> 1 (satu) </sch:semester>
+  <sch:penerima> 52 orang </sch:penerima> 
+  <sch:gambar rdf:resource="https://www.tanotofoundation.org/wp-content/uploads/2020/08/Pengembangan-kepemimpinan-dan-beasiswa-Tanoto-Foundation.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/baktiBCA">
+  <sch:nama> Beasiswa Bakti BCA </sch:nama>
+  <sch:Strata> S-1 </sch:Strata>
+  <sch:ipk> 3.00 </sch:ipk>
+  <sch:lembaga> PT. Bank Central Asia Tbk </sch:lembaga>
+  <sch:tunjangan> Rp500.000/bulan </sch:tunjangan>
+  <sch:semester> 5 (lima) </sch:semester>
+  <sch:penerima> 50 orang </sch:penerima>
+  <sch:gambar rdf:resource="https://static.republika.co.id/uploads/images/inpicture_slide/beasiswa-_160313155437-552.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/baznas">
+  <sch:nama> Beasiswa BAZNAS </sch:nama>
+  <sch:Strata> S-1 </sch:Strata>
+  <sch:ipk> 3.00 </sch:ipk>
+  <sch:lembaga> Badan Amil Zakat Nasional </sch:lembaga>
+  <sch:tunjangan> Rp400.000/bulan </sch:tunjangan>
+  <sch:semester> 4 (empat) </sch:semester>
+  <sch:penerima> 7 orang </sch:penerima> 
+  <sch:gambar rdf:resource="https://infokampus.news/wp-content/uploads/2018/10/logo-utama-300x294.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/beasiswalabura">
+  <sch:nama>Beasiswa Pemerintah Kab. Labura </sch:nama>
+  <sch:Strata> S-1 </sch:Strata>
+  <sch:ipk> 2.75 </sch:ipk>
+  <sch:lembaga> Pemkab Labura </sch:lembaga>
+  <sch:tunjangan> Rp2.000.000/tahun </sch:tunjangan>
+  <sch:semester> - </sch:semester>
+  <sch:penerima> 50 </sch:penerima> 
+  <sch:gambar rdf:resource="http://www.scholarsofficial.com/wp-content/uploads/2020/02/Daftar-Beasiswa-S1-Dalam-Negeri-untuk-Semester-4-630x380.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/karyasalemba">
+  <sch:nama>Beasiswa Karya Salemba Empat (KSE) </sch:nama>
+  <sch:Strata> D-4/S-1 </sch:Strata>
+  <sch:ipk> 3.25 </sch:ipk>
+  <sch:lembaga> Yayasan Karya Salemba Empat </sch:lembaga>
+  <sch:tunjangan> Rp750.000/bulan </sch:tunjangan>
+  <sch:semester> 2 (dua) </sch:semester>
+  <sch:penerima> 74 orang </sch:penerima> 
+  <sch:gambar rdf:resource="http://kemahasiswaan.unsyiah.ac.id/uploads/thumbnail/Pengumuman-detil-353.png"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/bankBTN">
+  <sch:nama>Beasiswa Bank Tabungan Negara (BTN)</sch:nama>
+  <sch:Strata> D-3/S-1 </sch:Strata>
+  <sch:ipk> 3.00 </sch:ipk>
+  <sch:lembaga> Bank BTN </sch:lembaga>
+  <sch:tunjangan> Rp6.000.000/tahun </sch:tunjangan>
+  <sch:semester> 2 (dua) s/d 4 (empat) </sch:semester>
+  <sch:penerima> 10 orang </sch:penerima>
+  <sch:gambar rdf:resource="https://pjsig.sv.ugm.ac.id/wp-content/uploads/sites/810/2019/03/Bank-BTN-1024x768.jpg"/>
+</sch:beasiswa>
+
+<sch:beasiswa rdf:about="https://beasiswa.com/vandeventer">
+  <sch:nama> Beasiswa Van Deventer - Maas Stichting </sch:nama>
+  <sch:Strata> D-3/S-1 </sch:Strata>
+  <sch:ipk> 3.00 </sch:ipk>
+  <sch:lembaga> Yayasan Van Deventer-Maas Stichting </sch:lembaga>
+  <sch:tunjangan> Rp650.000/bulan </sch:tunjangan>
+  <sch:semester> 3 (tiga) </sch:semester>
+  <sch:penerima> 44 orang </sch:penerima>
+  <sch:gambar rdf:resource="https://konsultanstudi.files.wordpress.com/2020/09/880a0-beasiswa2byayasan2bvan2bdeventer2bmaas2bindonesia2b2528yvdmi25292b20192bmahasiswa.png"/>
+</sch:beasiswa>
+
+
+
+
+
+
+
+</rdf:RDF>
